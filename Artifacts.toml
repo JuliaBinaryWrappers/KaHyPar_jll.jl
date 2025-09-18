@@ -1,104 +1,104 @@
 [[KaHyPar]]
 arch = "aarch64"
-git-tree-sha1 = "1ce092cf06303a220560d3ebfaf9c9eb3651a4e8"
+git-tree-sha1 = "deb80be58a0660741f53c27f7dc16ab111bcd15b"
 os = "macos"
 
     [[KaHyPar.download]]
-    sha256 = "18e558c0497fbac759cf14f89ad9085d06b1e8337bd489bbebdb1a0f6b422185"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "f7970866c9ed99b62db2651afb62383c9af0c2df203b692b475ad0e21d11880d"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.aarch64-apple-darwin.tar.gz"
 [[KaHyPar]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "45e58a5e9661b80f810b898183871559cc37a7f3"
+git-tree-sha1 = "220a713b7049520d7e04749dc2a6fccffdc153be"
 libc = "glibc"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "e940e410f96dc8c508e176a00731b935f1b2aaddb84eb7b9ddf516e236570751"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "2ef21255261cb87f96e19bf4e42e3b130b89cfb05b18ab0c22b89d2bb49e1436"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.aarch64-linux-gnu-cxx03.tar.gz"
 [[KaHyPar]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca4a15a5a7f8784031fc4d6d964f01c37b9e6ba0"
+git-tree-sha1 = "43a5cb8842053826c5b4a74a147373c21cfbffbd"
 libc = "glibc"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "91bc563bfd50a5cebc64acb867b31474ce0598df3c6cf61333cb2127df7f4ccc"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "909bce3e41d2d37c8682ae0ed8385f84fd71d702f078ff2e6b9bd71461f3bc6b"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.aarch64-linux-gnu-cxx11.tar.gz"
 [[KaHyPar]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5961fae1ff23e2bbfff1ea580222390abd5d7ace"
+git-tree-sha1 = "14c68ce720623f025068ce8e4b8c5e68336b7253"
 libc = "musl"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "817a11b6e7405a7438a59c2522cb9fa834b8094072a324fe6eb8c1575f3f1afe"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "3e16c71015cc2361d3b3aff26e3395018bb98091fe1d55aab85333a9f6d06d91"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.aarch64-linux-musl-cxx03.tar.gz"
 [[KaHyPar]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad50a5d2a6207849b9e13245bf7f95d278252e7e"
+git-tree-sha1 = "e3a5154fa4f97673c1073b46e4ee2ab40f813d80"
 libc = "musl"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "c710ca382e6f6aa8ceffc938619d695f6d58db73e03882227591e9c835a832f6"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "016da8f743f2066e6adbcbf01e1f7d363c6ff1cd658e84f87543cc644eb3f1e3"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.aarch64-linux-musl-cxx11.tar.gz"
 [[KaHyPar]]
 arch = "x86_64"
-git-tree-sha1 = "fa93aeb13792d0c50da854446fd27df6e4b7218a"
+git-tree-sha1 = "79c2f13c6db38de6a9691765c9c7d68c802bfbc1"
 os = "macos"
 
     [[KaHyPar.download]]
-    sha256 = "8e0c45ce33080c99c34c99fcc94ca2723d2b4368e7a9f9242326526848f52134"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "01a40b4e04039d7e7c1fcd596208119637d086f94787fb1a586dcb5873e853b7"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.x86_64-apple-darwin.tar.gz"
 [[KaHyPar]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e529a7e85455b2c85bc8a7c8a889a0f359c45dc4"
+git-tree-sha1 = "f8568f2c5564fcbb41c64643d4efe1c9428faca3"
 libc = "glibc"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "1a01e168565a42f7fbe9103afdf372887742269aced030745bf4324baed90dbf"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e12ca884dce3be3764e3b88e188fc280a1317e7ee1d3568431d73dbd6fb427f8"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.x86_64-linux-gnu-cxx03.tar.gz"
 [[KaHyPar]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "48d69b6bdef85144cc9b4ea30a659ff6bb86067d"
+git-tree-sha1 = "92d6b560a996ff7047685479ac1c8386ca7968f0"
 libc = "glibc"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "9637e46449669fe7f3ec1675e06f6268494a0da724af61e3122e12257b90ccdb"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f9a21498f7c9cd2c7823651ade6224d88c2b5d84d7887c6099c5ae3c383e5c6e"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.x86_64-linux-gnu-cxx11.tar.gz"
 [[KaHyPar]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2264dd65b9407e34693bce6d276a3ae8a730784"
+git-tree-sha1 = "1be63ee322bfe7cc23656e7527aabe2817be3985"
 libc = "musl"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "0908b0b8fa5d3298fda8c8d4d485ecc9d890574154f9a7c2d019d9dc04a7647d"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "0ef33c3ba6809609eaa95879dbc707d827dc9264094b9ae050217bc65ed8b58e"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.x86_64-linux-musl-cxx03.tar.gz"
 [[KaHyPar]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6bceb63bd7607901596d48d5e625bcc396824dca"
+git-tree-sha1 = "684054889baaf7512ff50fb71ebc640a61070bd1"
 libc = "musl"
 os = "linux"
 
     [[KaHyPar.download]]
-    sha256 = "b63b9a047806d66ce855efc48dc29027f217d7258481a9d5f36f18fff76eed0b"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "c72f09332d20d24c631186f27f5b17a54d134cdd4b003485ded4e32ec206cc6b"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.x86_64-linux-musl-cxx11.tar.gz"
 [[KaHyPar]]
 arch = "x86_64"
-git-tree-sha1 = "0222edb1a838786cf683db2a731009b624c5ce18"
+git-tree-sha1 = "32d3285acca86c55232262900093611c3c7404d8"
 os = "freebsd"
 
     [[KaHyPar.download]]
-    sha256 = "ca858ce0eb94b5dd244874c5a3c2e83fbf690ad9b4f50917097d90321077a613"
-    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.3+0/KaHyPar.v1.3.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a3a23aa3cfeb5ed497516352c0cf7151b16cf891788b5170fd1bf8b3f7caf21d"
+    url = "https://github.com/JuliaBinaryWrappers/KaHyPar_jll.jl/releases/download/KaHyPar-v1.3.4+0/KaHyPar.v1.3.4.x86_64-unknown-freebsd.tar.gz"
